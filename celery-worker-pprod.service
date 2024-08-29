@@ -1,0 +1,14 @@
+# /etc/systemd/system/celery-worker-dev.service
+[Unit]
+Description=Celery Worker Service (Pré-Prod)
+After=network.target
+
+[Service]
+User=root
+Group=root
+WorkingDirectory=/home/Corak_tech_API
+ExecStart=/home/Corak_tech_API/venv/bin/celery -A Sedadi_API worker --loglevel=info -E
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
