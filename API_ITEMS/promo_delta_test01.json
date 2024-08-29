@@ -1,0 +1,181 @@
+[
+    {
+        "id": "3273230292401",
+        "refreshSchedules": ["2024-06-10T06:13:05.000Z"],
+        "promotion": {
+            "start": "2024-06-06T00:01:00Z",
+            "end": "2024-06-06T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": 100,
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": 3,
+            "BINID": "0",
+            "ADV_ID": "1010100001",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P092",
+            "ADVCARACT_AMOUNT": 1000
+        }
+    },
+    {
+        "id": "3273230292402",
+        "refreshSchedules": ["2024-06-06T06:13:10.000Z"],
+        "promotion": {
+            "start": "2024-06-06T00:01:00Z",
+            "end": "2024-12-10T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "0",
+            "ADVCARACT_MIN": 300,
+            "CSTTOT_KEY": "RED",
+            "ADVTYPE_ID": 1,
+            "BINID": "0",
+            "ADV_ID": "1010100002",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P093",
+            "ADVCARACT_AMOUNT": 5000
+        }
+    },
+    {
+        "id": "3273230292463",
+        "refreshSchedules": ["2024-09-10T06:00:00.000Z"],
+        "promotion": {
+            "start": "2024-09-10T00:01:00Z",
+            "end": "2024-12-10T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "0",
+            "ADVCARACT_MIN": 200,
+            "CSTTOT_KEY": "PME",
+            "ADVTYPE_ID": 4,
+            "BINID": "1",
+            "ADV_ID": "1010100003",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P094",
+            "ADVCARACT_AMOUNT": 3000
+        }
+    },
+    {
+        "id": "3273230292468",
+        "refreshSchedules": ["2024-09-10T06:00:00.000Z"],
+        "promotion": {
+            "start": "2024-09-10T00:01:00Z",
+            "end": "2024-12-10T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": 100,
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": 2,
+            "BINID": "1",
+            "ADV_ID": "1010100004",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P095",
+            "ADVCARACT_AMOUNT": 1500
+        }
+    },
+    {
+        "id": "3273230292467",
+        "refreshSchedules": ["2024-09-10T06:00:00.000Z"],
+        "promotion": {
+            "start": "2024-09-10T00:01:00Z",
+            "end": "2024-12-10T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "0",
+            "ADVCARACT_MIN": 500,
+            "CSTTOT_KEY": "RED",
+            "ADVTYPE_ID": 1,
+            "BINID": "0",
+            "ADV_ID": "1010100005",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P096",
+            "ADVCARACT_AMOUNT": 8000
+        }
+    },
+    {
+        "id": "3273230292411",
+        "refreshSchedules": ["2024-09-10T06:00:00.000Z"],
+        "promotion": {
+            "start": "2024-09-10T00:01:00Z",
+            "end": "2024-12-10T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": 100,
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": 3,
+            "BINID": "1",
+            "ADV_ID": "1010100006",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P097",
+            "ADVCARACT_AMOUNT": 7000
+        }
+    },
+    {
+        "id": "3273230292410",
+        "refreshSchedules": ["2024-09-10T06:00:00.000Z"],
+        "promotion": {
+            "start": "2024-09-10T00:01:00Z",
+            "end": "2024-12-10T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "0",
+            "ADVCARACT_MIN": 150,
+            "CSTTOT_KEY": "RED",
+            "ADVTYPE_ID": 1,
+            "BINID": "0",
+            "ADV_ID": "1010100007",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P098",
+            "ADVCARACT_AMOUNT": 4500
+        }
+    },
+    {
+        "id": "0630996416754",
+        "refreshSchedules": ["2024-09-10T06:00:00.000Z"],
+        "promotion": {
+            "start": "2024-09-10T00:01:00Z",
+            "end": "2024-12-10T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": 100,
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": 2,
+            "BINID": "1",
+            "ADV_ID": "1010100008",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P099",
+            "ADVCARACT_AMOUNT": 6000
+        }
+    },
+    {
+        "id": "3017800201763",
+        "refreshSchedules": ["2024-09-10T06:00:00.000Z"],
+        "promotion": {
+            "start": "2024-09-10T00:01:00Z",
+            "end": "2024-12-10T23:59:00Z"
+        },
+        "custom": {
+            "ADVCOND_CODE": "0",
+            "ADVCARACT_MIN": 300,
+            "CSTTOT_KEY": "RED",
+            "ADVTYPE_ID": 1,
+            "BINID": "0",
+            "ADV_ID": "1010100009",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2024-09-10T00:00:00Z",
+            "ADV_PROFIL": "P100",
+            "ADVCARACT_AMOUNT": 9000
+        }
+    }]
