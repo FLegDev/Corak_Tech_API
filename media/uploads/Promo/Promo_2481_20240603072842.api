@@ -1,0 +1,141 @@
+[{
+        "refreshSchedules": ["2021-10-18T01:00:00Z", "2021-10-19T01:00:00Z"],
+        "domain": "monoprix_lab.lab",
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": "100",
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": "3",
+            "BINID": "0",
+            "ADV_ID": "9000046960",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2021-10-18T00:00:00Z",
+            "ADV_PROFIL": "P092",
+            "ADVCARACT_AMOUNT": "3000"
+        },
+        "id": "0037600106009",
+        "promotion": {
+            "start": "2021-04-19T00:00:00Z",
+            "end": "2022-05-04T23:59:00Z"
+        }
+    }, {
+        "refreshSchedules": ["2021-10-18T01:00:00Z", "2021-10-19T01:00:00Z"],
+        "domain": "monoprix_lab.lab",
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": "100",
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": "3",
+            "BINID": "0",
+            "ADV_ID": "1010062387",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2021-10-18T00:00:00Z",
+            "ADV_PROFIL": "P092",
+            "ADVCARACT_AMOUNT": "5000"
+        },
+        "id": "0080672002816",
+        "promotion": {
+            "start": "2020-12-02T00:01:00Z",
+            "end": "2021-12-31T23:59:00Z"
+        }
+    }, {
+        "refreshSchedules": ["2021-10-18T01:00:00Z", "2021-10-19T01:00:00Z"],
+        "domain": "monoprix_lab.lab",
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": "100",
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": "3",
+            "BINID": "0",
+            "ADV_ID": "1010062387",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2021-10-18T00:00:00Z",
+            "ADV_PROFIL": "P092",
+            "ADVCARACT_AMOUNT": "5000"
+        },
+        "id": "0080672002823",
+        "promotion": {
+            "start": "2020-12-02T00:01:00Z",
+            "end": "2021-12-31T23:59:00Z"
+        }
+    }, {
+        "refreshSchedules": ["2021-10-18T01:00:00Z", "2021-10-19T01:00:00Z"],
+        "domain": "monoprix_lab.lab",
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": "100",
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": "3",
+            "BINID": "0",
+            "ADV_ID": "1010062387",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2021-10-18T00:00:00Z",
+            "ADV_PROFIL": "P092",
+            "ADVCARACT_AMOUNT": "5000"
+        },
+        "id": "0080672091032",
+        "promotion": {
+            "start": "2020-12-02T00:01:00Z",
+            "end": "2021-12-31T23:59:00Z"
+        }
+    }, {
+        "refreshSchedules": ["2021-10-18T01:00:00Z", "2021-10-19T01:00:00Z"],
+        "domain": "monoprix_lab.lab",
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": "100",
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": "3",
+            "BINID": "0",
+            "ADV_ID": "1010062387",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2021-10-18T00:00:00Z",
+            "ADV_PROFIL": "P092",
+            "ADVCARACT_AMOUNT": "5000"
+        },
+        "id": "0080672091049",
+        "promotion": {
+            "start": "2020-12-02T00:01:00Z",
+            "end": "2021-12-31T23:59:00Z"
+        }
+    }, {
+        "refreshSchedules": ["2021-10-18T01:00:00Z", "2021-10-19T01:00:00Z"],
+        "domain": "monoprix_lab.lab",
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": "100",
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": "3",
+            "BINID": "0",
+            "ADV_ID": "1010062387",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2021-10-18T00:00:00Z",
+            "ADV_PROFIL": "P092",
+            "ADVCARACT_AMOUNT": "5000"
+        },
+        "id": "0080672091087",
+        "promotion": {
+            "start": "2020-12-02T00:01:00Z",
+            "end": "2021-12-31T23:59:00Z"
+        }
+    }, {
+        "refreshSchedules": ["2021-10-18T01:00:00Z", "2021-10-19T01:00:00Z"],
+        "domain": "monoprix_lab.lab",
+        "custom": {
+            "ADVCOND_CODE": "2",
+            "ADVCARACT_MIN": "100",
+            "CSTTOT_KEY": "REM",
+            "ADVTYPE_ID": "3",
+            "BINID": "0",
+            "ADV_ID": "1010062387",
+            "ADV_ACTIVE": "1",
+            "DATE_EXTRACT": "2021-10-18T00:00:00Z",
+            "ADV_PROFIL": "P092",
+            "ADVCARACT_AMOUNT": "5000"
+        },
+        "id": "0080672091100",
+        "promotion": {
+            "start": "2020-12-02T00:01:00Z",
+            "end": "2021-12-31T23:59:00Z"
+        }
+    }]

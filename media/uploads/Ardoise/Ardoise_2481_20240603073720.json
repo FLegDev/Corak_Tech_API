@@ -1,0 +1,21 @@
+[{
+    "unitPriceUnit": "U",
+    "certificates": {
+        "environmentallyFriendly": false,
+        "fairTrade": false,
+        "organic": true
+    },
+    "price": 3.6,
+    "custom": {
+        "libelle_cr_auto": "BIO 2 POMELOS",
+        "libelle_lg_auto": "BIO 2 POMELOS 2 FRUITS MOD P",
+        "conditionnement_auto": "La barquette de 2 fruits",
+        "promo_gold_auto": "N",
+        "certifie_auto": "FR-BIO-01"
+    },
+    "currency": "€",
+    "id": "3661030156210",
+    "classification": {},
+    "fresh": {},
+    "capacity": "001000"
+}]

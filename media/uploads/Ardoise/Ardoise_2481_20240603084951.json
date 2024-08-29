@@ -1,0 +1,117 @@
+[
+    {
+        "certificates":
+        {
+            "environmentallyFriendly": false,
+            "fairTrade": false,
+            "organic": false
+        },
+        "classification":
+        {},
+        "currency": "€",
+        "custom":
+        {
+            "conditionnement_auto": "La barquette de 1Kg",
+            "lib_unit_auto": "U",
+            "libelle_cr_auto": "PDT 1.5 VAPEUR ZRP",
+            "libelle_lg_auto": "PDT 1.5KG VAPEUR RISSO ZRP X8"
+        },
+        "fresh":
+        {},
+        "id": "3000143039407",
+        "price": 2.99,
+        "unitPriceUnit": "U"
+    },
+    {
+        "certificates":
+        {
+            "environmentallyFriendly": false,
+            "fairTrade": false,
+            "organic": false
+        },
+        "classification":
+        {},
+        "currency": "€",
+        "custom":
+        {
+            "conditionnement_auto": "La barquette de 1Kg",
+            "lib_unit_auto": "U",
+            "libelle_cr_auto": "PDT 1.5 VAPEUR ZRP",
+            "libelle_lg_auto": "PDT 1.5KG VAPEUR RISSO ZRP X8"
+        },
+        "fresh":
+        {},
+        "id": "3333340000735",
+        "price": 2.99,
+        "unitPriceUnit": "U"
+    },
+    {
+        "certificates":
+        {
+            "environmentallyFriendly": false,
+            "fairTrade": false,
+            "organic": false
+        },
+        "classification":
+        {},
+        "currency": "€",
+        "custom":
+        {
+            "conditionnement_auto": "La barquette de 1Kg",
+            "lib_unit_auto": "U",
+            "libelle_cr_auto": "PDT 1.5 VAPEUR ZRP",
+            "libelle_lg_auto": "PDT 1.5KG VAPEUR RISSO ZRP X8"
+        },
+        "fresh":
+        {},
+        "id": "3333340000742",
+        "price": 2.99,
+        "unitPriceUnit": "U"
+    },
+    {
+        "certificates":
+        {
+            "environmentallyFriendly": false,
+            "fairTrade": false,
+            "organic": false
+        },
+        "classification":
+        {},
+        "currency": "€",
+        "custom":
+        {
+            "conditionnement_auto": "La barquette de 1Kg",
+            "lib_unit_auto": "U",
+            "libelle_cr_auto": "PDT 1.5 VAPEUR ZRP",
+            "libelle_lg_auto": "PDT 1.5KG VAPEUR RISSO ZRP X8"
+        },
+        "fresh":
+        {},
+        "id": "3000050048400",
+        "price": 2.99,
+        "unitPriceUnit": "U"
+    },
+    {
+        "certificates":
+        {
+            "environmentallyFriendly": false,
+            "fairTrade": false,
+            "organic": false
+        },
+        "classification":
+        {},
+        "currency": "€",
+        "custom":
+        {
+            "conditionnement_auto": "La barquette de 1Kg",
+            "lib_unit_auto": "U",
+            "libelle_cr_auto": "PDT 1.5 VAPEUR ZRP",
+            "libelle_lg_auto": "PDT 1.5KG VAPEUR RISSO ZRP X8"
+        },
+        "fresh":
+        {},
+        "id": "3276554823144",
+        "price": 2.99,
+        "unitPriceUnit": "U"
+    }
+]
